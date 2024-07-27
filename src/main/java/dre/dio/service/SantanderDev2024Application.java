@@ -1,4 +1,4 @@
-package dre.dio;
+package dre.dio.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
